@@ -63,6 +63,10 @@ a {
   height: 50vh;
 }
 
+.cover {
+  width: 80%;
+  height: 25rem;
+}
 /* grid layout */
 
 .grid-wrapper {
